@@ -6,6 +6,10 @@ function gddemo
 % which final weights are shown by intersecting lines on axes.  Click on 
 % the axes below the error surface to show the error at the corresponding 
 % weights.
+%
+% Copyright (c) 2019 Simon D. Levy
+%
+% MIT License
 
 % clear out any stale graphic handles for callback function
 clear all

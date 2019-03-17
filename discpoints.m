@@ -3,6 +3,10 @@ function [x,y] = discpoints(cx, cy, r, n)
 %    [X,Y] = DISCPOINTS(CX, CY, R, N) returns N randomly generated points 
 %    with coordinates (X,Y) contained in a disc of radius R centered at 
 %    (CX,CY) of radius R.  
+%
+%    Copyright (c) 2019 Simon D. Levy
+%
+%    MIT License
 
 % generate 2N points in a square whose center is the center of the circle
 % and whose side is twice the radius
